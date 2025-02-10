@@ -1,6 +1,8 @@
 # 2025-AICOSS-Deep-Learning-winter-boot-camp
 다양한 객체를 포함한 fine-grained multi-class 이미지 분류 딥러닝 모델 개발
 
+![image](https://github.com/user-attachments/assets/51ad8013-5af5-4783-a484-cf3395afe3d5)
+
 # Overview
 ## 2025 산학협력 실습중심 딥러닝 겨울 부트캠프 경진대회 ##
 주어진 테스트 데이터셋을 분류하여라!
